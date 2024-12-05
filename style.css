@@ -3,15 +3,18 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+.body{
+    background-color: black;
+    
+}
 .container {
     margin: auto;
     /* width: 300px; */
     padding: 400px;
-    background-image: url(img/pexels-pixabay-414660.jpg);
     background-size: cover;
     background-position: auto;
     min-height: fit-content;
+    background-image: url(img/pexels-pixabay-414660.jpg);
 }
 
 h2 {
